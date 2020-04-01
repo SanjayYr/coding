@@ -2,8 +2,16 @@
 
 DFS, BFS runtime -    O(E+V), E is O(V^2)
   
-Dijkstra and Prims are similar with sptSet(dist[]) and mstSet(keys[])
+Dijkstra's and Prim's are similar with sptSet(dist[]) and mstSet(keys[])
+
+// Shortest path algos
+Dijkstra's     - O((E+V)logV) = O(ElogV) positive weights and no cycle
+Bellman-Ford   - O(VE), Relax all edges |V|-1 times  => (|V|-1)E 
+Floyd-Warshal  - O(V^3), all src-dst paths with k(0-(|V|-2)) intermediate vertices 
+Johnson's      - All pair shortest paths, 
   
+
+// MSTs
 Prim's - keys[] and choose min. Use TreeSet over PQ as remove() is O(n) in TreeSet
 
 Kruskal's  - mstSet[], sort edges, detect cycle using Union-Find (By Rank and Path-compression)  
