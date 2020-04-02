@@ -32,7 +32,8 @@ Insertion Sort performs well for small arrays
 
 Java and Python sort() uses TimSort
 
-
+0-1 BFS https://www.geeksforgeeks.org/0-1-bfs-shortest-path-binary-graph/
+https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 
 
 
