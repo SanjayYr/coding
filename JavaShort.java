@@ -55,3 +55,8 @@ StringBuffer
 
 
 Set, HashSet, TreeSet, LinkedHashSet, Map.Entry, 
+
+Queue<Integer> q = new LinkedList();
+offer(), poll(), size(), peek()
+  
+
