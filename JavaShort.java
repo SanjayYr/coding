@@ -59,6 +59,6 @@ Set, HashSet, TreeSet, LinkedHashSet, Map.Entry,
 Queue<Integer> q = new LinkedList();
 offer(), poll(), size(), peek()
   
-System.arrayCopy(srcArr, srcPos, dstArr, dstPos, len);
+System.arraycopy(srcArr, srcPos, dstArr, dstPos, len);
 
 
