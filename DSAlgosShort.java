@@ -36,6 +36,16 @@ Java and Python sort() uses TimSort
 https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 
 Remember to use do-while when required.
-  
+ 
+Updated list of Leetcode problems that involved 1 or 2 passes from left to right/right to left:
+53 Maximum Subarray
+121 Best Time to Buy and Sell Stock
+152 Maximum Product Subarray
+238 Product of Array Except Self
+739 Daily Temperatures
+769 Max Chunks to Make Sorted
+770 Max Chunks to Make Sorted II
+821 Shortest Distance to a Character
+845 Longest Mountain in Array
 
 
