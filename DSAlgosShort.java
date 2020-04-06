@@ -48,4 +48,6 @@ Updated list of Leetcode problems that involved 1 or 2 passes from left to right
 821 Shortest Distance to a Character
 845 Longest Mountain in Array
 
+Collatz Conjecture
+
 
