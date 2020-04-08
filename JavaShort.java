@@ -7,6 +7,75 @@
   BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
   br.nextLine();
 
+
+// GDoc copy start
+Collections:
+
+List     - ArrayList, LinkedList, 
+Stack    - Stack, LinkedList
+Queue    - Queue, LinkedList, ArrayDeque
+Set    - HashSet, TreeSet,
+Map    - HashMap, TreeMap, LinkedHashMap, 
+
+BitSet class - 
+
+Thread class, Runnable interface, run and start methods.
+
+Class methods:
+equals(), toString(), hashCode(),
+
+Arrays:
+Arrays.sort(), binarySearch(), 
+
+ArrayDeque:
+ad.descendingIterator().
+
+List:
+Arrays.asList(1,2,3..);
+lst.add(), get(), size(), addAll(), clear(), isEmpty(), contains(), indexOf(), remove(), sort(), subList(), hashCode()
+
+Map:
+put(), get(), putIfAbsent(), getOrDefault(), remove(), clear(), keySet(), entrySet(), containsKey(), containsValue(), size(), values(), isEmpty(), Map.Entry interface - getKey(), getValue(), setValue(), equals()
+
+String:
+charAt(), length(), subString(), join(), isEmpty(), split(), indexOf(), trim(), valueOf(), 
+
+For split(), regex can be used like
+s.split(“[ !?',;.]+”)
+
+StringBuilder:
+
+StringBuffer:
+
+Queue:
+add(), offer(), poll(), remove(), peek()
+
+ByteBuffer: java.nio.ByteBuffer
+
+Introselect: O(n) worst case for nth-element in a list
+
+Keywords:
+Interface, abstract class, abstract method, default methods, Comparator and Comparable interfaces, Iterator - hasNext(), next(); instanceof operator, final and finalize; Serializable interface, StringBuilder, String pools, 
+
+public DerivedClass extends BaseClass;
+public DerivedClass inherits Interface;
+
+Exceptions:
+try{} catch{} finally{};
+throw and throws;
+e.printStackTrace(), 
+
+Serialization and Deserialization of objects
+
+Abstraction, Inheritance, Encapsulation and Polymorphism, Overloading & overriding, default methods, 
+
+Non-access modifiers: 
+static, final, synchronized, transient, volatile, this, 
+
+package, import, 
+
+// GDoc copy end
+
 // Data types
 boolean, byte, short, int, float, long, double
 Boolean, Byte, Short, Integer, Float, Long, Double
