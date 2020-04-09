@@ -130,4 +130,4 @@ offer(), poll(), size(), peek()
   
 System.arraycopy(srcArr, srcPos, dstArr, dstPos, len);
 
-
+Arrays.binarysearch() vs Collections.binarySearch()
