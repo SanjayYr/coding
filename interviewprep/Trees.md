@@ -7,6 +7,6 @@
 
 #### Interval Trees
 
-#### Binary Trees'
+#### Binary Trees
 
 #### Binary Search Trees
