@@ -17,7 +17,7 @@
 * [Second minimum element using minimum comparisons - Tournament Tree](https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/)
 * [BraceExpansion](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1087-BraceExpansion.java)
 
-=========================================================================================
+===================================================================================
 
 * [Unsorted arr, elem searchable through Binary Search](https://leetcode.com/discuss/interview-question/474891/Google-Telephonic-InterviewL4)
 * [Min step to reach the end of array](https://leetcode.com/discuss/interview-question/450018/Google-or-Phone-or-Min-step-to-reach-the-end-of-array)
