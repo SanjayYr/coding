@@ -8,6 +8,26 @@
 * [ShortestWayToFormString](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1055-ShortestWayToFormString.java)
 * [Binary Tree Cameras](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1055-ShortestWayToFormString.java)
 * [Binary Lifting](https://github.com/SanjayYr/coding/blob/master/BinaryLifting.java)
+* [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/submissions/)
+* [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+* [String Transforms Into Another String](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1153-StringTransformsIntoAnotherString.java)
+* [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+* [Distinct Subsequences - LeetCode](https://leetcode.com/problems/distinct-subsequences/)
+* [Word Subsets - Letter Occurs Including Multiplicity LeetCode](https://leetcode.com/problems/word-subsets/)
+* [Second minimum element using minimum comparisons - Tournament Tree](https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/)
+* [BraceExpansion](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1087-BraceExpansion.java)
+
+====================================================================================================================================
 
 
 * [Unsorted arr, elem searchable through Binary Search](https://leetcode.com/discuss/interview-question/474891/Google-Telephonic-InterviewL4)
+* [Min step to reach the end of array](https://leetcode.com/discuss/interview-question/450018/Google-or-Phone-or-Min-step-to-reach-the-end-of-array)
+* [Subtract two integers represented as array](https://leetcode.com/discuss/interview-question/443621/Google-or-Phone-or-Subtract-two-integers-represented-as-array)
+* [Check if move is surrounded](https://leetcode.com/discuss/interview-question/442154/Google-or-Phone-or-Check-if-move-is-surrounded)
+* [Efficient point grouping algorithm](https://cs.stackexchange.com/questions/85929/efficient-point-grouping-algorithm)
+* [Range Minimum Query and Range Sum Query using Segment Trees](https://leetcode.com/discuss/interview-question/414132/Google-or-Range-minimum-query)
+* [Maximum Length Of A Square Submatrix with At-Most K](https://www.geeksforgeeks.org/find-maximum-length-of-a-square-submatrix-having-sum-of-elements-at-most-k/?ref=rp)
+* [Random Walk](https://leetcode.com/discuss/interview-question/423397/Google-or-Phone-Screen-or-Random-Walk)
+* [Construct Even Odd Array](https://leetcode.com/discuss/interview-question/416951/Google-or-Phone-Screen-or-Construct-Even-Odd-Array)
+* [Count Zero Squares](https://leetcode.com/discuss/interview-question/416012/Google-or-Phone-Screen-or-Count-Zero-Squares)
+
