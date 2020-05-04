@@ -16,7 +16,6 @@
 * [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
 * [Distinct Subsequences - LeetCode](https://leetcode.com/problems/distinct-subsequences/)
 * [Word Subsets - Letter Occurs Including Multiplicity LeetCode](https://leetcode.com/problems/word-subsets/)
-* [Second minimum element using minimum comparisons - Tournament Tree](https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/)
 * [BraceExpansion](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1087-BraceExpansion.java)
 * [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 * [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)
@@ -30,7 +29,20 @@
 * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 * [LRU Cache using DLL and Map](https://leetcode.com/problems/lru-cache/)
 * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-
+* [Flatten a Multilevel Doubly Linked List - LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
+* [Rank Teams by Votes - LeetCode](https://leetcode.com/problems/rank-teams-by-votes/submissions/)
+* [Decode String - LeetCode](https://leetcode.com/problems/decode-string/submissions/)
+* [Median of Two Sorted Arrays - LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+* [Maximal Rectangle - LeetCode](https://leetcode.com/problems/maximal-rectangle/submissions/)
+* [Word Ladder - LeetCode](https://leetcode.com/problems/word-ladder/submissions/)
+* [Backspace String Compare - LeetCode](https://leetcode.com/problems/backspace-string-compare/submissions/)
+* [Smallest Range Covering Elements from K Lists - LeetCode](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+* [Diagonal Traverse Alternating - LeetCode](https://leetcode.com/problems/diagonal-traverse/submissions/)
+* [Russian Doll Envelopes - LeetCode](https://leetcode.com/problems/russian-doll-envelopes/)
+* [Maximum Frequency Stack - LeetCode](https://leetcode.com/problems/maximum-frequency-stack/submissions/)
+* [Search Suggestions System - LeetCode](https://leetcode.com/problems/search-suggestions-system/)
+* [DesignSearchAutocompleteSystem - Google](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/642-DesignSearchAutocompleteSystem.java )
+* [BoxStacking3D](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/BoxStacking3D.java)
 
 ===================================================================================
 
@@ -49,6 +61,17 @@
 * [1d candy crush](https://leetcode.com/discuss/interview-question/395486/Google-or-Phone-screen-or-1d-candy-crush)
 * [Longest Common Sublist](https://leetcode.com/discuss/interview-question/395152/Google-or-Phone-Screen-or-Longest-Common-Sublist)
 * [Product of the Last K Numbers](https://leetcode.com/discuss/interview-question/364396/)
-
-
-
+* [KMP Algorithm for Pattern Searching - GeeksforGeeks](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+* [TopoSort DFS - GeeksforGeeks](https://www.geeksforgeeks.org/topological-sorting/)
+* [Strongly Connected Components - GeeksforGeek](https://www.geeksforgeeks.org/strongly-connected-components/)
+* [Connected Components in an undirected graph - GeeksforGeeks](https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/)
+* [Union-Find Algorithm | Set 2 (Union By Rank and Path Compression) - GeeksforGeeks](https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/)
+* [Print Matrix Diagonally - Google | LeetCode Discuss](https://leetcode.com/discuss/interview-question/391708/Google-or-Phone-Screen-or-Print-Matrix-Diagonally)
+* [Remove Duplicate Spaces - Google | LeetCode Discuss](https://leetcode.com/discuss/interview-question/410418/Google-or-Phone-Screen-or-Remove-Duplicate-Spaces)
+* [Keypad with 2 fingers - Google | LeetCode Discuss](https://leetcode.com/discuss/interview-question/407120/Google-or-Phone-Screen-or-Keypad-with-2-fingers )
+* [Max Increasing Decreasing Subset - Google | LeetCode Discuss](https://leetcode.com/discuss/interview-question/407105/Google-or-Phone-Screen-or-Max-IncreasingDecreasing-Subset)
+* [Second minimum element using minimum comparisons - Tournament Tree](https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/)
+* [Validate Expressions - LeetCode Discuss](https://leetcode.com/discuss/interview-question/404496/Google-or-Phone-Screen-or-Validate-Expressions)
+* [Get Rank with Name and Rank - LeetCode Discuss](https://leetcode.com/discuss/interview-question/401563/Google-or-Phone-Screen-or-Get-Rank)
+* [Print Common Nodes in two BST - GeeksforGeeks](https://www.geeksforgeeks.org/print-common-nodes-in-two-binary-search-trees/)
+* [Square of 1s with length > sqrt (n) in mxn matrix](https://leetcode.com/discuss/interview-question/399149/Google-Phone-Screen )
