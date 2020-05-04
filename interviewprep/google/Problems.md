@@ -1,3 +1,5 @@
+### Phone Screen
+
 * [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
 * [MinimumWindowSubsequence](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/727-MinimumWindowSubsequence.java)
 * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
@@ -8,7 +10,7 @@
 * [ShortestWayToFormString](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1055-ShortestWayToFormString.java)
 * [Binary Tree Cameras](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1055-ShortestWayToFormString.java)
 * [Binary Lifting](https://github.com/SanjayYr/coding/blob/master/BinaryLifting.java)
-* [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/submissions/)
+* [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
 * [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 * [String Transforms Into Another String](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1153-StringTransformsIntoAnotherString.java)
 * [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
@@ -16,6 +18,19 @@
 * [Word Subsets - Letter Occurs Including Multiplicity LeetCode](https://leetcode.com/problems/word-subsets/)
 * [Second minimum element using minimum comparisons - Tournament Tree](https://www.geeksforgeeks.org/second-minimum-element-using-minimum-comparisons/)
 * [BraceExpansion](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1087-BraceExpansion.java)
+* [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+* [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)
+* [Edit Distance](https://leetcode.com/problems/edit-distance/)
+* [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+* [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
+* [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+* [BFS code Java - Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+* [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
+* [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+* [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+* [LRU Cache using DLL and Map](https://leetcode.com/problems/lru-cache/)
+* [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
 
 ===================================================================================
 
@@ -29,4 +44,11 @@
 * [Random Walk](https://leetcode.com/discuss/interview-question/423397/Google-or-Phone-Screen-or-Random-Walk)
 * [Construct Even Odd Array](https://leetcode.com/discuss/interview-question/416951/Google-or-Phone-Screen-or-Construct-Even-Odd-Array)
 * [Count Zero Squares](https://leetcode.com/discuss/interview-question/416012/Google-or-Phone-Screen-or-Count-Zero-Squares)
+* [Maximum size square sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/)
+* [Print Fractions](https://leetcode.com/discuss/interview-question/410499/Google-or-Phone-Screen-or-Print-Fractions)
+* [1d candy crush](https://leetcode.com/discuss/interview-question/395486/Google-or-Phone-screen-or-1d-candy-crush)
+* [Longest Common Sublist](https://leetcode.com/discuss/interview-question/395152/Google-or-Phone-Screen-or-Longest-Common-Sublist)
+* [Product of the Last K Numbers](https://leetcode.com/discuss/interview-question/364396/)
+
+
 
