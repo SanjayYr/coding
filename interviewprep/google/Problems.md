@@ -95,12 +95,12 @@
 * [Number of Submatrices That Sum to Target - Prefix Sum - LeetCode](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 * [Video Stitching - LeetCode](https://leetcode.com/problems/video-stitching/)
 * [Minimum Distance to Type a Word Using Two Fingers - LeetCode](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)
-* [ - LeetCode]()
-* [ - LeetCode]()
-* [ - LeetCode]()
-* [ - LeetCode]()
-* [ - LeetCode]()
-* [ - LeetCode]()
+* [Count Square Submatrices with All Ones - LeetCode](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+* [Minimum Area Rectangle - LeetCode](https://leetcode.com/problems/minimum-area-rectangle/)
+* [Coin Change 2 - LeetCode](https://leetcode.com/problems/coin-change-2/)
+* [Vertical Order Traversal of a Binary Tree - LeetCode](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+* [All Possible Full Binary Trees - LeetCode](https://leetcode.com/problems/all-possible-full-binary-trees/)
+* [Find Positive Integer Solution for a Given Equation - LeetCode](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)
 * [ - LeetCode]()
 * [ - LeetCode]()
 * [ - LeetCode]()
@@ -134,6 +134,32 @@
 * [Two Finger Typing - DFS + DP - Google](https://leetcode.com/discuss/interview-question/456785/Google-or-Onsite-or-Two-Finger-Typing/416426)
 * [2D Algorithm Similar To Sudoku - Google](https://leetcode.com/discuss/interview-question/440937/Google-or-Onsite-or-Crazy-2D-Algorithm-Question/396609)
 * [Encode Number - Google](https://leetcode.com/discuss/interview-question/453156/Google-or-Onsite-or-Encode-number/407326)
+* [Data structure to manipulate a very long string - Google](https://leetcode.com/discuss/interview-question/413991/)
+* [Find Slow / Incomplete APIs - Google](https://leetcode.com/discuss/interview-question/435886/Google-or-Onsite-or-Find-Slow-Incomplete-APIs)
+* [TSP - Google](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
+* [TSP using Branch and Bound - Google](https://leetcode.com/discuss/interview-question/428666/Google-or-Onsite-or-Travelling-Salesman-Problem)
+* [0-1 Knapsack using Branch and Bound - Google](https://www.geeksforgeeks.org/implementation-of-0-1-knapsack-using-branch-and-bound/)
+* [Get all logs between times - TreeMap subMap - Google](https://leetcode.com/discuss/interview-question/431023/Google-or-Onsite-or-Get-all-logs-between-times)
+* [Count Squares - Google](https://leetcode.com/discuss/interview-question/429242/Google-or-Onsite-or-Count-Squares)
+* [Pack Words - NP Hard - Google](https://leetcode.com/discuss/interview-question/423599/Google-or-Pack-Words)
+* [Moving Average From a Data Stream - Google](https://leetcode.com/discuss/interview-question/417463/Google-or-Onsite-or-Moving-Average-From-a-Data-Stream)
+In cpp, we can use multiset. But in Java, we need to use TreeMap with counts to account for duplicates.
+5% Max TreeMap  |    90% Max TreeMap and Min TreeMap  |   5 % Min TreeMap
+Remove nums[i-N] and then insert nums[i]
+Order of check is 5 % Min Heap -> 5 % Max TreeMap ->  90% Min-Max TreeMap
+Or we can use TreeSet with indexes as key. 
+Comparator<Integer> comparator = (a, b) -> nums[a] != nums[b] ? Integer.compare(nums[a], nums[b]) : a - b;
+TreeSet<Integer> left = new TreeSet<>(comparator.reversed());
+TreeSet<Integer> right = new TreeSet<>(comparator);
+* [Mean of last N integers in stream excluding K largest - Google](https://leetcode.com/discuss/interview-question/264495/Google-or-Onsite-or-Mean-of-last-N-integers-in-stream-excluding-K-largest/255473)
+* [Sliding Window Median - Leetcode](https://leetcode.com/problems/sliding-window-median/discuss/96346/Java-using-two-Tree-Sets-O(n-logk))
+* [Count Integer Partitions - Google](https://leetcode.com/discuss/interview-question/414064/Google-or-Count-Integer-Partitions)
+* [Full Binary Trees With N Leaves - Google](https://leetcode.com/discuss/interview-question/414082/Google-or-Full-Binary-Trees-With-N-Leaves)
+* [Remove at most K element to make array increasing - Google](https://leetcode.com/discuss/interview-question/412366/Google-or-Onsite-or-Remove-at-most-K-element-to-make-array-increasing)
+* [Find Function Arguments - Google](https://leetcode.com/discuss/interview-question/391709/Google-or-Onsite-or-Find-Function-Arguments/352111)
+* [Go (game) - Google](https://leetcode.com/discuss/interview-question/391195/Google-or-Onsite-or-Go-(game)/352737)
+* [Find object in a grid - Google](https://leetcode.com/discuss/interview-question/390551/Google-or-Onsite-or-Find-object-in-a-grid/358200)
+* [Word Break III - Google](https://leetcode.com/discuss/interview-question/385870/Google-or-Onsite-or-Word-Break-III/347600)
 * [ - Google]()
 * [ - Google]()
 * [ - Google]()
@@ -143,7 +169,14 @@
 * [ - Google]()
 * [ - Google]()
 * [ - Google]()
-
+* [ - Google]()
+* [ - Google]()
+* [ - Google]()
+* [ - Google]()
+* [ - Google]()
+* [ - Google]()
+* [ - Google]()
+ 
 
 ### All
 
