@@ -136,10 +136,6 @@
 * [01 Matrix - BFS - LeetCode](https://leetcode.com/problems/01-matrix/)
 * [Linked List Components - LeetCode](https://leetcode.com/problems/linked-list-components/)
 * [Longest Increasing Path in a Matrix - DFS - LeetCode](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
-* [ - LeetCode]()
-* [ - LeetCode]()
-* [ - LeetCode]()
-* [ - LeetCode]()
 
 ======================================================================================================
 
@@ -261,10 +257,12 @@ For DP on trees, you can store the dp value in nodes as well when computed.
 * [K-D tree - Google](https://www.geeksforgeeks.org/k-dimensional-tree/)
 * [Coursera Kd tree Lecture - Google](https://www.coursera.org/lecture/ml-clustering-and-retrieval/nn-search-with-kd-trees-6eTzw)
 * [Closest XY pair in a grid - Collect X and BFS to Y - Google](https://leetcode.com/discuss/interview-question/311662/google-phone-screen-closest-xy-pair-in-a-grid)
-* [ - Google]()
-* [ - Google]()
- 
- 
+* [Longest Consecutive Sequence in Graph - DP - Google](https://leetcode.com/discuss/interview-question/125162/Google-or-Onsite-or-Longest-Consecutive-Sequence-in-Graph)
+* [Create timed HashMap - Google](https://leetcode.com/discuss/interview-question/124559/Google-or-Onsite-or-Create-timed-HashMap/154903)
+* [K Largest Elements of a Max Heap - Google](https://leetcode.com/discuss/interview-question/175551/Google-or-Onsite-or-K-Largest-Elements-of-a-Max-Heap/180995)
+* [Distance between 2 nodes of an N-ary tree - Google](https://leetcode.com/discuss/interview-question/175828/Google-or-Onsite-or-Distance-between-2-nodes-of-an-N-ary-tree/203209)
+* [Brace expansion - Queue and Split - Google](https://leetcode.com/discuss/interview-question/175553/Google-or-Onsite-or-Brace-expansion/290999)
+* [Number of combinations for the equation - x+y higher idx and w-z lower idx - Google](https://leetcode.com/discuss/interview-question/178793/Google-or-Onsite-or-Number-of-combinations-for-the-equation/228971)
 
 ### All
 
