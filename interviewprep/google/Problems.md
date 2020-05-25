@@ -8,7 +8,7 @@
 * [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
 * [Expressive Words - LeetCode](https://leetcode.com/problems/expressive-words/)
 * [ShortestWayToFormString](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1055-ShortestWayToFormString.java)
-* [Binary Tree Cameras](https://github.com/SanjayYr/companyquespractice/blob/master/leetcodelocked/1055-ShortestWayToFormString.java)
+* [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 * [Binary Lifting](https://github.com/SanjayYr/coding/blob/master/BinaryLifting.java)
 * [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
 * [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
