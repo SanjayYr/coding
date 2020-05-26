@@ -373,3 +373,8 @@ For DP on trees, you can store the dp value in nodes as well when computed.
 * [Implement Magic Dictionary - LeetCode](https://leetcode.com/problems/implement-magic-dictionary/submissions/)
 * [Game of Life - LeetCode](https://leetcode.com/problems/game-of-life/)
 * [Wildcard Matching - LeetCode](https://leetcode.com/problems/wildcard-matching/)
+* [Cracking the Safe - DeBruin Sequence k^n - LeetCode](https://leetcode.com/problems/cracking-the-safe/)
+* [Android Unlock Patterns - LeetCode](https://leetcode.com/problems/android-unlock-patterns/)
+* [ - LeetCode]()
+* [ - LeetCode]()
+
