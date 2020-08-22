@@ -11,3 +11,5 @@
 [https://kafka.apache.org/26/documentation/streams/developer-guide/](https://kafka.apache.org/26/documentation/streams/developer-guide/)
 
 [https://issues.apache.org/jira/browse/KAFKA-10411?filter=-2](https://issues.apache.org/jira/browse/KAFKA-10411?filter=-2)
+
+[Efficient data transfer through zero copy](https://developer.ibm.com/articles/j-zerocopy/)
