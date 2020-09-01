@@ -5,7 +5,7 @@ PersistentVolume and PersistentVolumeClaim
 
 emptyDir
 
-configMap and secrete mounting as volumes
+configMap and secret mounting as volumes
 
 Containers, PODs, ReplicaSet, Deployment, DaemonSet, Job, Service, StatefulSet
 
@@ -15,5 +15,6 @@ Service, ClusterIP, NodePort, LoadBalancer, Ingress,
 
 netfilter, routes table, bridge network, kube-proxy, veth0, eth0, gateway router, 
 
+Konnectivity (service and agents) for API server to node, pods, containers communication
 
 
