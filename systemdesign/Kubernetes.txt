@@ -7,14 +7,36 @@ emptyDir
 
 configMap and secret mounting as volumes
 
-Containers, PODs, ReplicaSet, Deployment, DaemonSet, Job, Service, StatefulSet
+Containers, PODs, 
+
+Contollers:  ReplicaSet, Deployment, StatefulSet, DaemonSet, Job, CronJob
 
 RBAC
 
-Service, ClusterIP, NodePort, LoadBalancer, Ingress, 
+Service, ClusterIP, NodePort, LoadBalancer, Ingress, containerPort, targetPort, port,
 
 netfilter, routes table, bridge network, kube-proxy, veth0, eth0, gateway router, 
 
 Konnectivity (service and agents) for API server to node, pods, containers communication
+
+Labels and annotations
+
+Taints and node affinity; filtering and scoring; 
+
+Service at L4 and Ingree at L7.
+
+initContainers
+
+livenessProdes (container is up); readinessProde (container is ready to take requests)
+
+"hidden" pause container
+
+Garbage collection of "Failed"  nodes
+
+kubectl patch
+
+PersistentVolumeClaims and PersistentVolumes
+
+--cascade=false; just delete objects and not associated PODs
 
 
