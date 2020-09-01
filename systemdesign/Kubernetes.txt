@@ -1,0 +1,19 @@
+strategy: Recreate 
+For running a single instance of a POD
+
+PersistentVolume and PersistentVolumeClaim
+
+emptyDir
+
+configMap and secrete mounting as volumes
+
+Containers, PODs, ReplicaSet, Deployment, DaemonSet, Job, Service, StatefulSet
+
+RBAC
+
+Service, ClusterIP, NodePort, LoadBalancer, Ingress, 
+
+netfilter, routes table, bridge network, kube-proxy, veth0, eth0, gateway router, 
+
+
+
