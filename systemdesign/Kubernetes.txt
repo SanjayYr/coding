@@ -78,3 +78,4 @@ type: NodePort and nodePort: value
 
 Proxies: userspace, iptables (kernel space, packets are not copied to userspace), IPVS (in-kernel hash tables, scales for large clusters)
 
+secret volumes are backed by tmpfs (a RAM-backed filesystem) so they are never written to non-volatile storage.
