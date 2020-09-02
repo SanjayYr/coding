@@ -1,3 +1,12 @@
+Kubernetes:
+
+-Service discovery and load balancing.
+-Storage orchestration 
+-Automated rollouts and rollbacks 
+-Automatic bin packing 
+-Self-healing 
+-Secret and configuration management 
+
 strategy: Recreate 
 For running a single instance of a POD
 
