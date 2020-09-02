@@ -39,4 +39,42 @@ PersistentVolumeClaims and PersistentVolumes
 
 --cascade=false; just delete objects and not associated PODs
 
+Safely drain the node using "kubectl drain .." and Eviction API for PODs
+
+Pod Disruption Budget
+
+Ephemeral containers in a POD
+
+Pod uses DownwardAPI to expose information about itself to Containers running in the Pod. 
+A DownwardAPIVolumeFile can expose Pod fields and Container fields.
+
+PodPreset
+
+"kubectl expose .." to create a service
+
+imagePullSecrets
+
+Control plane to node communications
+
+Deployment spec.strategy=Recreate, RollingUpdate(default)
+
+metadata.ownerReferences
+
+StatefulSet: stable and ordered.
+
+Headless Service: clusteIP=None
+
+nodeSelector and affinity in DaemonSet to select a subset of nodes
+
+CronJobs
+
+targetPort (defined in Service) and containerPort (defined in POD)
+
+iptables proxy mode for clusterIP
+
+Using iptables to handle traffic has a lower system overhead, because traffic is handled by Linux netfilter without the need to switch between userspace and the kernel space. This approach is also likely to be more reliable.
+
+type: NodePort and nodePort: value
+
+Proxies: userspace, iptables (kernel space, packets are not copied to userspace), IPVS (in-kernel hash tables, scales for large clusters)
 
