@@ -7,6 +7,13 @@ Kubernetes:
 -Self-healing 
 -Secret and configuration management 
 
+kube-controller-manager:
+
+-Node controller
+-Replication controller
+-Endpoints controllers
+-Service Account & Token controllers
+
 strategy: Recreate 
 For running a single instance of a POD
 
